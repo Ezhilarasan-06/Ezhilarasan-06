@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezhilarasan-06" alt="ezhilarasan-06" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in java, FULL STACK**
+- 🌱 I’m currently learning **DSA in java and FULL STACK**
 
 - 📫 How to reach me **ezhilarasan061@gmail.com**
 
