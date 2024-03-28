@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ezhil." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezhil." height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ezhil.](https://www.linkedin.com/in/ezhil-9204b3239/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezhil." height="30" width="40" /></a>
 <a href="https://instagram.com/_x_e_z_h_i_l_06_x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x_e_z_h_i_l_06_x_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ezhilarasan g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ezhilarasan g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ezhil06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ezhil06" height="30" width="40" /></a>
